@@ -1,0 +1,8 @@
+{
+  "javascript.format.enable": false,
+  "eslint.run": "onType",
+  "files.eol": "\n",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+}
