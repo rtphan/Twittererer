@@ -1,4 +1,4 @@
-import React, {Component} from './node_modules/react';
+import React, {Component} from 'react';
 import {View, Button, TextInput} from 'react-native';
 
 export default class NewTweetScreen extends Component {
